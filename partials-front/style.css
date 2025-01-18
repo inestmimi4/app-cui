@@ -1,0 +1,29 @@
+.box select {
+    background-color: #e8a319;
+    color: #fff;
+  
+    height: 3rem;
+    width: 15rem;
+    padding: 10px;
+  
+    font-size: 16px;
+  
+    outline: none;
+    border: none;
+  
+   
+  
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+  }
+  
+ 
+  
+  .button{
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+    background: #e8a319;
+    color: #fff;
+  border-color: #e8a319;
+    font-size: 1rem;
+  height: 3rem;
+    font-family: "Times New Roman", Times, serif;}
+  
